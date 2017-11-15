@@ -14,27 +14,25 @@
         <icon>//oxm1.cc/img/app_default.png</icon>
     </p>
     <data>
-            <recommended-spot>
-        <i>
-            <title>
-                strong wallet
-            </title>
-            <reason>
-                good mobilephone
-            </reason>
-            <tag>
-                camera
-            </tag>
-            <img>
-                //a.oxm1.cc/img/fox.jpg
-            </img>
-            <href>
-                //a.oxm1.cc/img/fox.jpg
-            </href>
-            <score>
-                7804.06
-            </score>
-        </i>
-    </recommended-spot>
+        <recommended-spot>
+            <i>
+                <title>南宋御街</title>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9bn1zptTja0pzlzzRlkksA24nd-726.jpg</img>
+                <href></href>
+                <score>4.3</score>
+            </i>
+            <i>
+                <title>杭州宋城景区</title>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9bn20efTja0pzlbdR8wsyAsl5-563.jpg</img>
+                <href></href>
+                <score>4.7</score>
+            </i>
+            <i>
+                <title>雷峰塔</title>
+                <img>http://i.oxm1.cc/uploads/git/wurui/img/2a9bn21siTja0pzjxaRbdkcA2wch-738.jpg</img>
+                <href></href>
+                <score>4.4</score>
+            </i>
+        </recommended-spot>
     </data>
 </root>
